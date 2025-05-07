@@ -17,12 +17,12 @@ The solution is organized into the following projects:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/Bholajie/STERLINGPRO.git
    cd SterlingB
    ```
 
 2. Open the solution:
-   - Using Visual Studio: Open `SterlingB.sln`
+   - Using Visual Studio: Open `Ecommerce.sln`
    - Using VS Code: Open the folder and select the solution file
 
 3. Restore NuGet packages:
